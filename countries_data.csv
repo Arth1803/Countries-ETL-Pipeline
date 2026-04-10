@@ -1,0 +1,251 @@
+country,capital,region,subregion,population,area_km2,currency_name,currency_symbol,languages,borders,flag_url
+Ivory Coast,Yamoussoukro,Africa,Western Africa,31719275,322463.0,West African CFA franc,Fr,French,"BFA, GHA, GIN, LBR, MLI",https://flagcdn.com/w320/ci.png
+Italy,Rome,Europe,Southern Europe,58927633,301336.0,euro,€,"Italian, Catalan","AUT, FRA, SMR, SVN, CHE, VAT",https://flagcdn.com/w320/it.png
+Kyrgyzstan,Bishkek,Asia,Central Asia,7281800,199951.0,Kyrgyzstani som,с,"Kyrgyz, Russian","CHN, KAZ, TJK, UZB",https://flagcdn.com/w320/kg.png
+Papua New Guinea,Port Moresby,Oceania,Melanesia,11781559,462840.0,Papua New Guinean kina,K,"English, Hiri Motu, Tok Pisin",IDN,https://flagcdn.com/w320/pg.png
+Fiji,Suva,Oceania,Melanesia,900869,18272.0,Fijian dollar,$,"English, Fijian, Fiji Hindi",No Borders,https://flagcdn.com/w320/fj.png
+United Arab Emirates,Abu Dhabi,Asia,Western Asia,11294243,83600.0,United Arab Emirates dirham,د.إ,Arabic,"OMN, SAU",https://flagcdn.com/w320/ae.png
+Saint Kitts and Nevis,Basseterre,Americas,Caribbean,51320,261.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/kn.png
+French Guiana,Cayenne,Americas,South America,292354,83534.0,euro,€,French,"BRA, SUR",https://flagcdn.com/w320/gf.png
+Tanzania,Dodoma,Africa,Eastern Africa,68153004,947303.0,Tanzanian shilling,Sh,"English, Swahili","BDI, COD, KEN, MWI, MOZ, RWA, UGA, ZMB",https://flagcdn.com/w320/tz.png
+Angola,Luanda,Africa,Middle Africa,36170961,1246700.0,Angolan kwanza,Kz,Portuguese,"COG, COD, ZMB, NAM",https://flagcdn.com/w320/ao.png
+Togo,Lomé,Africa,Western Africa,8095498,56785.0,West African CFA franc,Fr,French,"BEN, BFA, GHA",https://flagcdn.com/w320/tg.png
+Finland,Helsinki,Europe,Northern Europe,5650325,338455.0,euro,€,"Finnish, Swedish","NOR, SWE, RUS",https://flagcdn.com/w320/fi.png
+Malawi,Lilongwe,Africa,Eastern Africa,20734262,118484.0,Malawian kwacha,MK,"English, Chewa","MOZ, TZA, ZMB",https://flagcdn.com/w320/mw.png
+Mali,Bamako,Africa,Western Africa,22395489,1240192.0,West African CFA franc,Fr,French,"DZA, BFA, GIN, CIV, MRT, NER, SEN",https://flagcdn.com/w320/ml.png
+Uzbekistan,Tashkent,Asia,Central Asia,37859698,447400.0,Uzbekistani soʻm,so'm,"Russian, Uzbek","AFG, KAZ, KGZ, TJK, TKM",https://flagcdn.com/w320/uz.png
+Senegal,Dakar,Africa,Western Africa,18593258,196722.0,West African CFA franc,Fr,French,"GMB, GIN, GNB, MLI, MRT",https://flagcdn.com/w320/sn.png
+Uganda,Kampala,Africa,Eastern Africa,45905417,241550.0,Ugandan shilling,Sh,"English, Swahili","COD, KEN, RWA, SSD, TZA",https://flagcdn.com/w320/ug.png
+Djibouti,Djibouti,Africa,Eastern Africa,1066809,23200.0,Djiboutian franc,Fr,"Arabic, French","ERI, ETH, SOM",https://flagcdn.com/w320/dj.png
+South Sudan,Juba,Africa,Middle Africa,15786898,619745.0,South Sudanese pound,£,English,"CAF, COD, ETH, KEN, SDN, UGA",https://flagcdn.com/w320/ss.png
+Jersey,Saint Helier,Europe,Northern Europe,103267,116.0,British pound,£,"English, French, Jèrriais",No Borders,https://flagcdn.com/w320/je.png
+Tuvalu,Funafuti,Oceania,Polynesia,10643,26.0,Australian dollar,$,"English, Tuvaluan",No Borders,https://flagcdn.com/w320/tv.png
+Japan,Tokyo,Asia,Eastern Asia,123210000,377930.0,Japanese yen,¥,Japanese,No Borders,https://flagcdn.com/w320/jp.png
+Oman,Muscat,Asia,Western Asia,5343630,309500.0,Omani rial,ر.ع.,Arabic,"SAU, ARE, YEM",https://flagcdn.com/w320/om.png
+Belgium,Brussels,Europe,Western Europe,11825551,30528.0,euro,€,"German, French, Dutch","FRA, DEU, LUX, NLD",https://flagcdn.com/w320/be.png
+Saint Martin,Marigot,Americas,Caribbean,31496,53.0,euro,€,French,SXM,https://flagcdn.com/w320/mf.png
+Mayotte,Mamoudzou,Africa,Eastern Africa,320901,374.0,euro,€,French,No Borders,https://flagcdn.com/w320/yt.png
+France,Paris,Europe,Western Europe,66351959,543908.0,euro,€,French,"AND, BEL, DEU, ITA, LUX, MCO, ESP, CHE",https://flagcdn.com/w320/fr.png
+Bulgaria,Sofia,Europe,Southeast Europe,6437360,110879.0,Bulgarian lev,лв,Bulgarian,"GRC, MKD, ROU, SRB, TUR",https://flagcdn.com/w320/bg.png
+Cyprus,Nicosia,Europe,Southern Europe,1442614,9251.0,euro,€,"Greek, Turkish",No Borders,https://flagcdn.com/w320/cy.png
+South Korea,Seoul,Asia,Eastern Asia,51159889,100210.0,South Korean won,₩,Korean,PRK,https://flagcdn.com/w320/kr.png
+Mexico,Mexico City,Americas,North America,130575786,1964375.0,Mexican peso,$,Spanish,"BLZ, GTM, USA",https://flagcdn.com/w320/mx.png
+North Macedonia,Skopje,Europe,Southeast Europe,1822612,25713.0,denar,den,Macedonian,"ALB, BGR, GRC, UNK, SRB",https://flagcdn.com/w320/mk.png
+Guyana,Georgetown,Americas,South America,772975,214969.0,Guyanese dollar,$,English,"BRA, SUR, VEN",https://flagcdn.com/w320/gy.png
+Kosovo,Pristina,Europe,Southeast Europe,1585566,10908.0,euro,€,"Albanian, Serbian","ALB, MKD, MNE, SRB",https://flagcdn.com/w320/xk.png
+Morocco,Rabat,Africa,Northern Africa,36828330,446550.0,Moroccan dirham,د.م.,"Arabic, Berber","DZA, ESH, ESP",https://flagcdn.com/w320/ma.png
+Gibraltar,Gibraltar,Europe,Southern Europe,38000,6.0,Gibraltar pound,£,English,ESP,https://flagcdn.com/w320/gi.png
+Western Sahara,El Aaiún,Africa,Northern Africa,600904,266000.0,Algerian dinar,دج,"Berber, Hassaniya, Spanish","DZA, MRT, MAR",https://flagcdn.com/w320/eh.png
+Andorra,Andorra la Vella,Europe,Southern Europe,88406,468.0,euro,€,Catalan,"FRA, ESP",https://flagcdn.com/w320/ad.png
+Palau,Ngerulmud,Oceania,Micronesia,16733,459.0,United States dollar,$,"English, Palauan",No Borders,https://flagcdn.com/w320/pw.png
+Guinea,Conakry,Africa,Western Africa,14363931,245857.0,Guinean franc,Fr,French,"CIV, GNB, LBR, MLI, SEN, SLE",https://flagcdn.com/w320/gn.png
+Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,50828,948.0,United States dollar,$,English,No Borders,https://flagcdn.com/w320/tc.png
+Saudi Arabia,Riyadh,Asia,Western Asia,35300280,2149690.0,Saudi riyal,ر.س,Arabic,"IRQ, JOR, KWT, OMN, QAT, ARE, YEM",https://flagcdn.com/w320/sa.png
+Botswana,Gaborone,Africa,Southern Africa,2359609,582000.0,Botswana pula,P,"English, Tswana","NAM, ZAF, ZMB, ZWE",https://flagcdn.com/w320/bw.png
+Comoros,Moroni,Africa,Eastern Africa,919901,1862.0,Comorian franc,Fr,"Arabic, French, Comorian",No Borders,https://flagcdn.com/w320/km.png
+Belize,Belmopan,Americas,Central America,417634,22966.0,Belize dollar,$,"Belizean Creole, English, Spanish","GTM, MEX",https://flagcdn.com/w320/bz.png
+Cambodia,Phnom Penh,Asia,South-Eastern Asia,17577760,181035.0,Cambodian riel,៛,Khmer,"LAO, THA, VNM",https://flagcdn.com/w320/kh.png
+Saint Lucia,Castries,Americas,Caribbean,184100,616.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/lc.png
+Mauritania,Nouakchott,Africa,Western Africa,4927532,1030700.0,Mauritanian ouguiya,UM,Arabic,"DZA, MLI, SEN, ESH",https://flagcdn.com/w320/mr.png
+Jamaica,Kingston,Americas,Caribbean,2825544,10991.0,Jamaican dollar,$,"English, Jamaican Patois",No Borders,https://flagcdn.com/w320/jm.png
+Cape Verde,Praia,Africa,Western Africa,491233,4033.0,Cape Verdean escudo,Esc,Portuguese,No Borders,https://flagcdn.com/w320/cv.png
+Marshall Islands,Majuro,Oceania,Micronesia,42418,181.0,United States dollar,$,"English, Marshallese",No Borders,https://flagcdn.com/w320/mh.png
+Namibia,Windhoek,Africa,Southern Africa,3022401,825615.0,Namibian dollar,$,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana","AGO, BWA, ZAF, ZMB",https://flagcdn.com/w320/na.png
+Iran,Tehran,Asia,Southern Asia,85961000,1648195.0,Iranian rial,﷼,Persian (Farsi),"AFG, ARM, AZE, IRQ, PAK, TUR, TKM",https://flagcdn.com/w320/ir.png
+Wallis and Futuna,Mata-Utu,Oceania,Polynesia,11620,142.0,CFP franc,₣,French,No Borders,https://flagcdn.com/w320/wf.png
+Azerbaijan,Baku,Asia,Western Asia,10241722,86600.0,Azerbaijani manat,₼,Azerbaijani,"ARM, GEO, IRN, RUS, TUR",https://flagcdn.com/w320/az.png
+Niger,Niamey,Africa,Western Africa,26312034,1267000.0,West African CFA franc,Fr,French,"DZA, BEN, BFA, TCD, LBY, MLI, NGA",https://flagcdn.com/w320/ne.png
+Heard Island and McDonald Islands,No Capital,Antarctic,,0,412.0,No Currency,No Currency,English,No Borders,https://flagcdn.com/w320/hm.png
+Laos,Vientiane,Asia,South-Eastern Asia,7647000,236800.0,Lao kip,₭,Lao,"MMR, KHM, CHN, THA, VNM",https://flagcdn.com/w320/la.png
+Burkina Faso,Ouagadougou,Africa,Western Africa,24070553,272967.0,West African CFA franc,Fr,French,"BEN, CIV, GHA, MLI, NER, TGO",https://flagcdn.com/w320/bf.png
+Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,593,14.0,Australian dollar,$,English,No Borders,https://flagcdn.com/w320/cc.png
+Luxembourg,Luxembourg,Europe,Western Europe,681973,2586.0,euro,€,"German, French, Luxembourgish","BEL, FRA, DEU",https://flagcdn.com/w320/lu.png
+Indonesia,Jakarta,Asia,South-Eastern Asia,284438782,1904569.0,Indonesian rupiah,Rp,Indonesian,"TLS, MYS, PNG",https://flagcdn.com/w320/id.png
+Lebanon,Beirut,Asia,Western Asia,5490000,10452.0,Lebanese pound,ل.ل,"Arabic, French","ISR, SYR",https://flagcdn.com/w320/lb.png
+Turkey,Ankara,Asia,Western Asia,85664944,783562.0,Turkish lira,₺,Turkish,"ARM, AZE, BGR, GEO, GRC, IRN, IRQ, SYR",https://flagcdn.com/w320/tr.png
+Timor-Leste,Dili,Asia,South-Eastern Asia,1391221,14874.0,United States dollar,$,"Portuguese, Tetum",IDN,https://flagcdn.com/w320/tl.png
+Zimbabwe,Harare,Africa,Southern Africa,17073087,390757.0,Zimbabwean dollar,$,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language","BWA, MOZ, ZAF, ZMB",https://flagcdn.com/w320/zw.png
+South Africa,Pretoria,Africa,Southern Africa,63100945,1221037.0,South African rand,R,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu","BWA, LSO, MOZ, NAM, SWZ, ZWE",https://flagcdn.com/w320/za.png
+Armenia,Yerevan,Asia,Western Asia,3076200,29743.0,Armenian dram,֏,Armenian,"AZE, GEO, IRN, TUR",https://flagcdn.com/w320/am.png
+Ireland,Dublin,Europe,Northern Europe,5458600,70273.0,euro,€,"English, Irish",GBR,https://flagcdn.com/w320/ie.png
+Norway,Oslo,Europe,Northern Europe,5606944,386224.0,Norwegian krone,kr,"Norwegian Nynorsk, Norwegian Bokmål, Sami","FIN, SWE, RUS",https://flagcdn.com/w320/no.png
+Kenya,Nairobi,Africa,Eastern Africa,53330978,580367.0,Kenyan shilling,Sh,"English, Swahili","ETH, SOM, SSD, TZA, UGA",https://flagcdn.com/w320/ke.png
+North Korea,Pyongyang,Asia,Eastern Asia,25950000,120538.0,North Korean won,₩,Korean,"CHN, KOR, RUS",https://flagcdn.com/w320/kp.png
+Afghanistan,Kabul,Asia,Southern Asia,43844000,652230.0,Afghan afghani,؋,"Dari, Pashto, Turkmen","IRN, PAK, TKM, UZB, TJK, CHN",https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+Bermuda,Hamilton,Americas,North America,64055,54.0,Bermudian dollar,$,English,No Borders,https://flagcdn.com/w320/bm.png
+Spain,Madrid,Europe,Southern Europe,49315949,505992.0,euro,€,"Spanish, Catalan, Basque, Galician","AND, FRA, GIB, PRT, MAR",https://flagcdn.com/w320/es.png
+Netherlands,Amsterdam,Europe,Western Europe,18100436,41865.0,euro,€,Dutch,"BEL, DEU",https://flagcdn.com/w320/nl.png
+Nicaragua,Managua,Americas,Central America,6803886,130373.0,Nicaraguan córdoba,C$,Spanish,"CRI, HND",https://flagcdn.com/w320/ni.png
+Lesotho,Maseru,Africa,Southern Africa,2116427,30355.0,Lesotho loti,L,"English, Sotho",ZAF,https://flagcdn.com/w320/ls.png
+Egypt,Cairo,Africa,Northern Africa,107271260,1002450.0,Egyptian pound,£,Arabic,"ISR, LBY, PSE, SDN",https://flagcdn.com/w320/eg.png
+Gambia,Banjul,Africa,Western Africa,2422712,10689.0,dalasi,D,English,SEN,https://flagcdn.com/w320/gm.png
+Brazil,Brasília,Americas,South America,213421037,8515767.0,Brazilian real,R$,Portuguese,"ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN",https://flagcdn.com/w320/br.png
+Australia,Canberra,Oceania,Australia and New Zealand,27536874,7692024.0,Australian dollar,$,English,No Borders,https://flagcdn.com/w320/au.png
+Bouvet Island,No Capital,Antarctic,,0,49.0,No Currency,No Currency,Norwegian,No Borders,https://flagcdn.com/w320/bv.png
+Pitcairn Islands,Adamstown,Oceania,Polynesia,35,47.0,New Zealand dollar,$,English,No Borders,https://flagcdn.com/w320/pn.png
+Barbados,Bridgetown,Americas,Caribbean,267800,430.0,Barbadian dollar,$,English,No Borders,https://flagcdn.com/w320/bb.png
+Madagascar,Antananarivo,Africa,Eastern Africa,31727042,587041.0,Malagasy ariary,Ar,"French, Malagasy",No Borders,https://flagcdn.com/w320/mg.png
+United Kingdom,London,Europe,Northern Europe,69281437,244376.0,British pound,£,English,IRL,https://flagcdn.com/w320/gb.png
+Portugal,Lisbon,Europe,Southern Europe,10749635,92090.0,euro,€,Portuguese,ESP,https://flagcdn.com/w320/pt.png
+Greenland,Nuuk,Americas,North America,56542,2166086.0,krone,kr.,Greenlandic,No Borders,https://flagcdn.com/w320/gl.png
+American Samoa,Pago Pago,Oceania,Polynesia,49710,199.0,United States dollar,$,"English, Samoan",No Borders,https://flagcdn.com/w320/as.png
+South Georgia,King Edward Point,Antarctic,,0,3903.0,British pound,£,English,No Borders,https://flagcdn.com/w320/gs.png
+Turkmenistan,Ashgabat,Asia,Central Asia,7057841,488100.0,Turkmenistan manat,m,"Russian, Turkmen","AFG, IRN, KAZ, UZB",https://flagcdn.com/w320/tm.png
+Guadeloupe,Basse-Terre,Americas,Caribbean,378561,1628.0,euro,€,French,No Borders,https://flagcdn.com/w320/gp.png
+Dominica,Roseau,Americas,Caribbean,67408,751.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/dm.png
+Solomon Islands,Honiara,Oceania,Melanesia,750325,28896.0,Solomon Islands dollar,$,English,No Borders,https://flagcdn.com/w320/sb.png
+Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,5819,242.0,euro,€,French,No Borders,https://flagcdn.com/w320/pm.png
+Rwanda,Kigali,Africa,Eastern Africa,14104969,26338.0,Rwandan franc,Fr,"English, French, Kinyarwanda","BDI, COD, TZA, UGA",https://flagcdn.com/w320/rw.png
+Norfolk Island,Kingston,Oceania,Australia and New Zealand,2188,36.0,Australian dollar,$,"English, Norfuk",No Borders,https://flagcdn.com/w320/nf.png
+Panama,Panama City,Americas,Central America,4064780,75417.0,Panamanian balboa,B/.,Spanish,"COL, CRI",https://flagcdn.com/w320/pa.png
+Bahamas,Nassau,Americas,Caribbean,398165,13943.0,Bahamian dollar,$,English,No Borders,https://flagcdn.com/w320/bs.png
+Tokelau,Fakaofo,Oceania,Polynesia,2608,12.0,New Zealand dollar,$,"English, Samoan, Tokelauan",No Borders,https://flagcdn.com/w320/tk.png
+Montenegro,Podgorica,Europe,Southeast Europe,623327,13812.0,euro,€,Montenegrin,"ALB, BIH, HRV, UNK, SRB",https://flagcdn.com/w320/me.png
+Åland Islands,Mariehamn,Europe,Northern Europe,30654,1580.0,euro,€,Swedish,No Borders,https://flagcdn.com/w320/ax.png
+Niue,Alofi,Oceania,Polynesia,1681,260.0,New Zealand dollar,$,"English, Niuean",No Borders,https://flagcdn.com/w320/nu.png
+Argentina,Buenos Aires,Americas,South America,46735004,2780400.0,Argentine peso,$,"Guaraní, Spanish","BOL, BRA, CHL, PRY, URY",https://flagcdn.com/w320/ar.png
+Cuba,Havana,Americas,Caribbean,9748007,109884.0,Cuban convertible peso,$,Spanish,No Borders,https://flagcdn.com/w320/cu.png
+Cayman Islands,George Town,Americas,Caribbean,84738,264.0,Cayman Islands dollar,$,English,No Borders,https://flagcdn.com/w320/ky.png
+Kazakhstan,Astana,Asia,Central Asia,20426568,2724900.0,Kazakhstani tenge,₸,"Kazakh, Russian","CHN, KGZ, RUS, TKM, UZB",https://flagcdn.com/w320/kz.png
+Russia,Moscow,Europe,Eastern Europe,146028325,17098246.0,Russian ruble,₽,Russian,"AZE, BLR, CHN, EST, FIN, GEO, KAZ, PRK, LVA, LTU, MNG, NOR, POL, UKR",https://flagcdn.com/w320/ru.png
+India,New Delhi,Asia,Southern Asia,1417492000,3287263.0,Indian rupee,₹,"English, Hindi, Tamil","BGD, BTN, MMR, CHN, NPL, PAK",https://flagcdn.com/w320/in.png
+British Virgin Islands,Road Town,Americas,Caribbean,39471,151.0,United States dollar,$,English,No Borders,https://flagcdn.com/w320/vg.png
+Guam,Hagåtña,Oceania,Micronesia,153836,549.0,United States dollar,$,"Chamorro, English, Spanish",No Borders,https://flagcdn.com/w320/gu.png
+Myanmar,Naypyidaw,Asia,South-Eastern Asia,51316756,676578.0,Burmese kyat,Ks,Burmese,"BGD, CHN, IND, LAO, THA",https://flagcdn.com/w320/mm.png
+DR Congo,Kinshasa,Africa,Middle Africa,112832000,2344858.0,Congolese franc,FC,"French, Kikongo, Lingala, Tshiluba, Swahili","AGO, BDI, CAF, COG, RWA, SSD, TZA, UGA, ZMB",https://flagcdn.com/w320/cd.png
+Mauritius,Port Louis,Africa,Eastern Africa,1243741,2040.0,Mauritian rupee,₨,"English, French, Mauritian Creole",No Borders,https://flagcdn.com/w320/mu.png
+Falkland Islands,Stanley,Americas,South America,3662,12173.0,Falkland Islands pound,£,English,No Borders,https://flagcdn.com/w320/fk.png
+Northern Mariana Islands,Saipan,Oceania,Micronesia,47329,464.0,United States dollar,$,"Carolinian, Chamorro, English",No Borders,https://flagcdn.com/w320/mp.png
+Ukraine,Kyiv,Europe,Eastern Europe,32862000,603550.0,Ukrainian hryvnia,₴,Ukrainian,"BLR, HUN, MDA, POL, ROU, RUS, SVK",https://flagcdn.com/w320/ua.png
+Monaco,Monaco,Europe,Western Europe,38423,2.02,euro,€,French,FRA,https://flagcdn.com/w320/mc.png
+Tajikistan,Dushanbe,Asia,Central Asia,10499000,143100.0,Tajikistani somoni,ЅМ,"Russian, Tajik","AFG, CHN, KGZ, UZB",https://flagcdn.com/w320/tj.png
+Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,34231700,330803.0,Malaysian ringgit,RM,"English, Malay","BRN, IDN, THA",https://flagcdn.com/w320/my.png
+Somalia,Mogadishu,Africa,Eastern Africa,19655000,637657.0,Somali shilling,Sh,"Arabic, Somali","DJI, ETH, KEN",https://flagcdn.com/w320/so.png
+Antigua and Barbuda,Saint John's,Americas,Caribbean,103603,442.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/ag.png
+Central African Republic,Bangui,Africa,Middle Africa,6470307,622984.0,Central African CFA franc,Fr,"French, Sango","CMR, TCD, COD, COG, SSD, SDN",https://flagcdn.com/w320/cf.png
+Macau,No Capital,Asia,Eastern Asia,685900,30.0,Macanese pataca,P,"Portuguese, Chinese",CHN,https://flagcdn.com/w320/mo.png
+Israel,Jerusalem,Asia,Western Asia,10134800,21937.0,Israeli new shekel,₪,"Arabic, Hebrew","EGY, JOR, LBN, PSE, SYR",https://flagcdn.com/w320/il.png
+Nigeria,Abuja,Africa,Western Africa,223800000,923768.0,Nigerian naira,₦,English,"BEN, CMR, TCD, NER",https://flagcdn.com/w320/ng.png
+Honduras,Tegucigalpa,Americas,Central America,9892632,112492.0,Honduran lempira,L,Spanish,"GTM, SLV, NIC",https://flagcdn.com/w320/hn.png
+Sierra Leone,Freetown,Africa,Western Africa,9077691,71740.0,Leone,Le,English,"GIN, LBR",https://flagcdn.com/w320/sl.png
+Tunisia,Tunis,Africa,Northern Africa,11972169,163610.0,Tunisian dinar,د.ت,Arabic,"DZA, LBY",https://flagcdn.com/w320/tn.png
+Lithuania,Vilnius,Europe,Northern Europe,2894886,65300.0,euro,€,Lithuanian,"BLR, LVA, POL, RUS",https://flagcdn.com/w320/lt.png
+Iraq,Baghdad,Asia,Western Asia,46118793,438317.0,Iraqi dinar,ع.د,"Arabic, Aramaic, Sorani","IRN, JOR, KWT, SAU, SYR, TUR",https://flagcdn.com/w320/iq.png
+Switzerland,Bern,Europe,Western Europe,9082848,41284.0,Swiss franc,Fr.,"French, Swiss German, Italian, Romansh","AUT, FRA, ITA, LIE, DEU",https://flagcdn.com/w320/ch.png
+Chile,Santiago,Americas,South America,20206953,756102.0,Chilean peso,$,Spanish,"ARG, BOL, PER",https://flagcdn.com/w320/cl.png
+Taiwan,Taipei,Asia,Eastern Asia,23317031,36197.0,New Taiwan dollar,$,Chinese,No Borders,https://flagcdn.com/w320/tw.png
+Vietnam,Hanoi,Asia,South-Eastern Asia,101343800,331212.0,Vietnamese đồng,₫,Vietnamese,"KHM, CHN, LAO",https://flagcdn.com/w320/vn.png
+Bangladesh,Dhaka,Asia,Southern Asia,169828911,147570.0,Bangladeshi taka,৳,Bengali,"MMR, IND",https://flagcdn.com/w320/bd.png
+Vanuatu,Port Vila,Oceania,Melanesia,321409,12189.0,Vanuatu vatu,Vt,"Bislama, English, French",No Borders,https://flagcdn.com/w320/vu.png
+Pakistan,Islamabad,Asia,Southern Asia,241499431,796095.0,Pakistani rupee,₨,"English, Urdu","AFG, CHN, IND, IRN",https://flagcdn.com/w320/pk.png
+Latvia,Riga,Europe,Northern Europe,1829000,64559.0,euro,€,Latvian,"BLR, EST, LTU, RUS",https://flagcdn.com/w320/lv.png
+Malta,Valletta,Europe,Southern Europe,574250,316.0,euro,€,"English, Maltese",No Borders,https://flagcdn.com/w320/mt.png
+Seychelles,Victoria,Africa,Eastern Africa,122729,452.0,Seychellois rupee,₨,"Seychellois Creole, English, French",No Borders,https://flagcdn.com/w320/sc.png
+Montserrat,Plymouth,Americas,Caribbean,4386,102.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/ms.png
+Anguilla,The Valley,Americas,Caribbean,16010,91.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/ai.png
+Greece,Athens,Europe,Southern Europe,10400720,131990.0,euro,€,Greek,"ALB, BGR, TUR, MKD",https://flagcdn.com/w320/gr.png
+Czechia,Prague,Europe,Central Europe,10882341,78865.0,Czech koruna,Kč,"Czech, Slovak","AUT, DEU, POL, SVK",https://flagcdn.com/w320/cz.png
+Zambia,Lusaka,Africa,Eastern Africa,19693423,752612.0,Zambian kwacha,ZK,English,"AGO, BWA, COD, MWI, MOZ, NAM, TZA, ZWE",https://flagcdn.com/w320/zm.png
+Hong Kong,City of Victoria,Asia,Eastern Asia,7527500,1104.0,Hong Kong dollar,$,"English, Chinese",CHN,https://flagcdn.com/w320/hk.png
+United States,"Washington, D.C.",Americas,North America,340110988,9525067.0,United States dollar,$,English,"CAN, MEX",https://flagcdn.com/w320/us.png
+Eswatini,Mbabane,Africa,Southern Africa,1235549,17364.0,Swazi lilangeni,L,"English, Swazi","MOZ, ZAF",https://flagcdn.com/w320/sz.png
+Slovenia,Ljubljana,Europe,Central Europe,2130638,20273.0,euro,€,Slovene,"AUT, HRV, ITA, HUN",https://flagcdn.com/w320/si.png
+Caribbean Netherlands,Kralendijk,Americas,Caribbean,31980,328.0,United States dollar,$,"English, Dutch, Papiamento",No Borders,https://flagcdn.com/w320/bq.png
+Maldives,Malé,Asia,Southern Asia,515132,300.0,Maldivian rufiyaa,.ރ,Maldivian,No Borders,https://flagcdn.com/w320/mv.png
+Ghana,Accra,Africa,Western Africa,33742380,238533.0,Ghanaian cedi,₵,English,"BFA, CIV, TGO",https://flagcdn.com/w320/gh.png
+Paraguay,Asunción,Americas,South America,6109644,406752.0,Paraguayan guaraní,₲,"Guaraní, Spanish","ARG, BOL, BRA",https://flagcdn.com/w320/py.png
+Mozambique,Maputo,Africa,Eastern Africa,34090466,801590.0,Mozambican metical,MT,Portuguese,"MWI, ZAF, SWZ, TZA, ZMB, ZWE",https://flagcdn.com/w320/mz.png
+Palestine,Ramallah,Asia,Western Asia,5483450,6220.0,Egyptian pound,E£,Arabic,"ISR, EGY, JOR",https://flagcdn.com/w320/ps.png
+Moldova,Chișinău,Europe,Eastern Europe,2749076,33847.0,Moldovan leu,L,Romanian,"ROU, UKR",https://flagcdn.com/w320/md.png
+Liberia,Monrovia,Africa,Western Africa,5248621,111369.0,Liberian dollar,$,English,"GIN, CIV, SLE",https://flagcdn.com/w320/lr.png
+Liechtenstein,Vaduz,Europe,Western Europe,40900,160.0,Swiss franc,Fr,German,"AUT, CHE",https://flagcdn.com/w320/li.png
+Peru,Lima,Americas,South America,34350244,1285216.0,Peruvian sol,S/ ,"Aymara, Quechua, Spanish","BOL, BRA, CHL, COL, ECU",https://flagcdn.com/w320/pe.png
+Qatar,Doha,Asia,Western Asia,3173024,11586.0,Qatari riyal,ر.ق,Arabic,SAU,https://flagcdn.com/w320/qa.png
+Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,1692,135.0,Australian dollar,$,English,No Borders,https://flagcdn.com/w320/cx.png
+Georgia,Tbilisi,Asia,Western Asia,4000921,69700.0,lari,₾,Georgian,"ARM, AZE, RUS, TUR",https://flagcdn.com/w320/ge.png
+Ecuador,Quito,Americas,South America,18103660,276841.0,United States dollar,$,Spanish,"COL, PER",https://flagcdn.com/w320/ec.png
+Philippines,Manila,Asia,South-Eastern Asia,114123600,342353.0,Philippine peso,₱,"English, Filipino",No Borders,https://flagcdn.com/w320/ph.png
+Ethiopia,Addis Ababa,Africa,Eastern Africa,111652998,1104300.0,Ethiopian birr,Br,Amharic,"DJI, ERI, KEN, SOM, SSD, SDN",https://flagcdn.com/w320/et.png
+United States Virgin Islands,Charlotte Amalie,Americas,Caribbean,87146,347.0,United States dollar,$,English,No Borders,https://flagcdn.com/w320/vi.png
+Syria,Damascus,Asia,Western Asia,25620000,185180.0,Syrian pound,£,Arabic,"IRQ, ISR, JOR, LBN, TUR",https://flagcdn.com/w320/sy.png
+Romania,Bucharest,Europe,Southeast Europe,19036031,238391.0,Romanian leu,lei,Romanian,"BGR, HUN, MDA, SRB, UKR",https://flagcdn.com/w320/ro.png
+Guatemala,Guatemala City,Americas,Central America,18079810,108889.0,Guatemalan quetzal,Q,Spanish,"BLZ, SLV, HND, MEX",https://flagcdn.com/w320/gt.png
+Nepal,Kathmandu,Asia,Southern Asia,29911840,147181.0,Nepalese rupee,₨,Nepali,"CHN, IND",https://flagcdn.com/w320/np.png
+Réunion,Saint-Denis,Africa,Eastern Africa,896175,2511.0,euro,€,French,No Borders,https://flagcdn.com/w320/re.png
+Benin,Porto-Novo,Africa,Western Africa,13224860,112622.0,West African CFA franc,Fr,French,"BFA, NER, NGA, TGO",https://flagcdn.com/w320/bj.png
+Kuwait,Kuwait City,Asia,Western Asia,4881254,17818.0,Kuwaiti dinar,د.ك,Arabic,"IRQ, SAU",https://flagcdn.com/w320/kw.png
+Suriname,Paramaribo,Americas,South America,616500,163820.0,Surinamese dollar,$,Dutch,"BRA, GUF, GUY",https://flagcdn.com/w320/sr.png
+New Caledonia,Nouméa,Oceania,Melanesia,264596,18575.0,CFP franc,₣,French,No Borders,https://flagcdn.com/w320/nc.png
+Sudan,Khartoum,Africa,Northern Africa,51662000,1886068.0,Sudanese pound,ج.س,"Arabic, English","CAF, TCD, EGY, ERI, ETH, LBY, SSD",https://flagcdn.com/w320/sd.png
+United States Minor Outlying Islands,Washington DC,Americas,North America,0,34.2,United States dollar,$,English,No Borders,https://flagcdn.com/w320/um.png
+Chad,N'Djamena,Africa,Middle Africa,19340757,1284000.0,Central African CFA franc,Fr,"Arabic, French","CMR, CAF, LBY, NER, NGA, SDN",https://flagcdn.com/w320/td.png
+Uruguay,Montevideo,Americas,South America,3499451,181034.0,Uruguayan peso,$,Spanish,"ARG, BRA",https://flagcdn.com/w320/uy.png
+Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,3422000,51209.0,Bosnia and Herzegovina convertible mark,KM,"Bosnian, Croatian, Serbian","HRV, MNE, SRB",https://flagcdn.com/w320/ba.png
+Trinidad and Tobago,Port of Spain,Americas,Caribbean,1367764,5130.0,Trinidad and Tobago dollar,$,English,No Borders,https://flagcdn.com/w320/tt.png
+Sweden,Stockholm,Europe,Northern Europe,10605098,450295.0,Swedish krona,kr,Swedish,"FIN, NOR",https://flagcdn.com/w320/se.png
+Iceland,Reykjavik,Europe,Northern Europe,391810,103000.0,Icelandic króna,kr,Icelandic,No Borders,https://flagcdn.com/w320/is.png
+Haiti,Port-au-Prince,Americas,Caribbean,11867032,27750.0,Haitian gourde,G,"French, Haitian Creole",DOM,https://flagcdn.com/w320/ht.png
+Brunei,Bandar Seri Begawan,Asia,South-Eastern Asia,455500,5765.0,Brunei dollar,$,Malay,MYS,https://flagcdn.com/w320/bn.png
+French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,400,7747.0,euro,€,French,No Borders,https://flagcdn.com/w320/tf.png
+Guernsey,St. Peter Port,Europe,Northern Europe,64781,78.0,British pound,£,"English, French, Guernésiais",No Borders,https://flagcdn.com/w320/gg.png
+Croatia,Zagreb,Europe,Southeast Europe,3866233,56594.0,euro,€,Croatian,"BIH, HUN, MNE, SRB, SVN",https://flagcdn.com/w320/hr.png
+Saint Barthélemy,Gustavia,Americas,Caribbean,10562,21.0,euro,€,French,No Borders,https://flagcdn.com/w320/bl.png
+Mongolia,Ulan Bator,Asia,Eastern Asia,3544835,1564110.0,Mongolian tögrög,₮,Mongolian,"CHN, RUS",https://flagcdn.com/w320/mn.png
+Aruba,Oranjestad,Americas,Caribbean,107566,180.0,Aruban florin,ƒ,"Dutch, Papiamento",No Borders,https://flagcdn.com/w320/aw.png
+Republic of the Congo,Brazzaville,Africa,Middle Africa,6142180,342000.0,Central African CFA franc,Fr,"French, Kikongo, Lingala","AGO, CMR, CAF, COD, GAB",https://flagcdn.com/w320/cg.png
+São Tomé and Príncipe,São Tomé,Africa,Middle Africa,209607,964.0,São Tomé and Príncipe dobra,Db,Portuguese,No Borders,https://flagcdn.com/w320/st.png
+Yemen,Sana'a,Asia,Western Asia,32684503,527968.0,Yemeni rial,﷼,Arabic,"OMN, SAU",https://flagcdn.com/w320/ye.png
+Equatorial Guinea,Ciudad de la Paz,Africa,Middle Africa,1668768,28051.0,Central African CFA franc,Fr,"French, Portuguese, Spanish","CMR, GAB",https://flagcdn.com/w320/gq.png
+Svalbard and Jan Mayen,Longyearbyen,Europe,Northern Europe,2530,61399.0,krone,kr,Norwegian,No Borders,https://flagcdn.com/w320/sj.png
+Colombia,Bogotá,Americas,South America,53057212,1141748.0,Colombian peso,$,Spanish,"BRA, ECU, PAN, PER, VEN",https://flagcdn.com/w320/co.png
+Guinea-Bissau,Bissau,Africa,Western Africa,1781308,36125.0,West African CFA franc,Fr,"Portuguese, Upper Guinea Creole","GIN, SEN",https://flagcdn.com/w320/gw.png
+Kiribati,South Tarawa,Oceania,Micronesia,120740,811.0,Australian dollar,$,"English, Gilbertese",No Borders,https://flagcdn.com/w320/ki.png
+Germany,Berlin,Europe,Western Europe,83491249,357114.0,euro,€,German,"AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE",https://flagcdn.com/w320/de.png
+Thailand,Bangkok,Asia,South-Eastern Asia,65859640,513120.0,Thai baht,฿,Thai,"MMR, KHM, LAO, MYS",https://flagcdn.com/w320/th.png
+Isle of Man,Douglas,Europe,Northern Europe,84530,572.0,British pound,£,"English, Manx",No Borders,https://flagcdn.com/w320/im.png
+Bhutan,Thimphu,Asia,Southern Asia,784043,38394.0,Bhutanese ngultrum,Nu.,Dzongkha,"CHN, IND",https://flagcdn.com/w320/bt.png
+Gabon,Libreville,Africa,Middle Africa,2469296,267668.0,Central African CFA franc,Fr,French,"CMR, COG, GNQ",https://flagcdn.com/w320/ga.png
+Sint Maarten,Philipsburg,Americas,Caribbean,41349,34.0,Netherlands Antillean guilder,ƒ,"English, French, Dutch",MAF,https://flagcdn.com/w320/sx.png
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21763170,65610.0,Sri Lankan rupee,Rs  රු,"Sinhala, Tamil",No Borders,https://flagcdn.com/w320/lk.png
+Albania,Tirana,Europe,Southeast Europe,2363314,28748.0,Albanian lek,L,Albanian,"MNE, GRC, MKD, UNK",https://flagcdn.com/w320/al.png
+New Zealand,Wellington,Oceania,Australia and New Zealand,5324700,268838.0,New Zealand dollar,$,"English, Māori, New Zealand Sign Language",No Borders,https://flagcdn.com/w320/nz.png
+Algeria,Algiers,Africa,Northern Africa,47400000,2381741.0,Algerian dinar,د.ج,Arabic,"TUN, LBY, NER, ESH, MRT, MLI, MAR",https://flagcdn.com/w320/dz.png
+San Marino,City of San Marino,Europe,Southern Europe,34132,61.0,euro,€,Italian,ITA,https://flagcdn.com/w320/sm.png
+Micronesia,Palikir,Oceania,Micronesia,105564,702.0,United States dollar,$,English,No Borders,https://flagcdn.com/w320/fm.png
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,5651,394.0,Pound sterling,£,English,No Borders,https://flagcdn.com/w320/sh.png
+Curaçao,Willemstad,Americas,Caribbean,156115,444.0,Netherlands Antillean guilder,ƒ,"English, Dutch, Papiamento",No Borders,https://flagcdn.com/w320/cw.png
+El Salvador,San Salvador,Americas,Central America,6029976,21041.0,United States dollar,$,Spanish,"GTM, HND",https://flagcdn.com/w320/sv.png
+Martinique,Fort-de-France,Americas,Caribbean,349925,1128.0,euro,€,French,No Borders,https://flagcdn.com/w320/mq.png
+Nauru,Yaren,Oceania,Micronesia,11680,21.0,Australian dollar,$,"English, Nauru",No Borders,https://flagcdn.com/w320/nr.png
+Vatican City,Vatican City,Europe,Southern Europe,882,0.49,euro,€,"Italian, Latin",ITA,https://flagcdn.com/w320/va.png
+Grenada,St. George's,Americas,Caribbean,109021,344.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/gd.png
+Tonga,Nuku'alofa,Oceania,Polynesia,100179,747.0,Tongan paʻanga,T$,"English, Tongan",No Borders,https://flagcdn.com/w320/to.png
+Burundi,Gitega,Africa,Eastern Africa,12332788,27834.0,Burundian franc,Fr,"French, Kirundi","COD, RWA, TZA",https://flagcdn.com/w320/bi.png
+Samoa,Apia,Oceania,Polynesia,205557,2842.0,Samoan tālā,T,"English, Samoan",No Borders,https://flagcdn.com/w320/ws.png
+Denmark,Copenhagen,Europe,Northern Europe,6011488,43094.0,Danish krone,kr,Danish,DEU,https://flagcdn.com/w320/dk.png
+Venezuela,Caracas,Americas,South America,28517000,916445.0,Venezuelan bolívar soberano,Bs.S.,Spanish,"BRA, COL, GUY",https://flagcdn.com/w320/ve.png
+Austria,Vienna,Europe,Central Europe,9200931,83871.0,euro,€,German,"CZE, DEU, HUN, ITA, LIE, SVK, SVN, CHE",https://flagcdn.com/w320/at.png
+Slovakia,Bratislava,Europe,Central Europe,5413813,49037.0,euro,€,Slovak,"AUT, CZE, HUN, POL, UKR",https://flagcdn.com/w320/sk.png
+China,Beijing,Asia,Eastern Asia,1408280000,9706961.0,Chinese yuan,¥,Chinese,"AFG, BTN, MMR, HKG, IND, KAZ, NPL, PRK, KGZ, LAO, MAC, MNG, PAK, RUS, TJK, VNM",https://flagcdn.com/w320/cn.png
+British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,0,60.0,United States dollar,$,English,No Borders,https://flagcdn.com/w320/io.png
+French Polynesia,Papeetē,Oceania,Polynesia,279500,4167.0,CFP franc,₣,French,No Borders,https://flagcdn.com/w320/pf.png
+Bolivia,Sucre,Americas,South America,11365333,1098581.0,Bolivian boliviano,Bs.,"Aymara, Guaraní, Quechua, Spanish","ARG, BRA, CHL, PRY, PER",https://flagcdn.com/w320/bo.png
+Antarctica,No Capital,Antarctic,,1300,14000000.0,No Currency,No Currency,Unknown,No Borders,https://flagcdn.com/w320/aq.png
+Libya,Tripoli,Africa,Northern Africa,7459000,1759540.0,Libyan dinar,ل.د,Arabic,"DZA, TCD, EGY, NER, SDN, TUN",https://flagcdn.com/w320/ly.png
+Estonia,Tallinn,Europe,Northern Europe,1369995,45227.0,euro,€,Estonian,"LVA, RUS",https://flagcdn.com/w320/ee.png
+Cook Islands,Avarua,Oceania,Polynesia,15040,236.0,Cook Islands dollar,$,"English, Cook Islands Māori",No Borders,https://flagcdn.com/w320/ck.png
+Puerto Rico,San Juan,Americas,Caribbean,3203295,8870.0,United States dollar,$,"English, Spanish",No Borders,https://flagcdn.com/w320/pr.png
+Belarus,Minsk,Europe,Eastern Europe,9109280,207600.0,Belarusian ruble,Br,"Belarusian, Russian","LVA, LTU, POL, RUS, UKR",https://flagcdn.com/w320/by.png
+Faroe Islands,Tórshavn,Europe,Northern Europe,54885,1393.0,Danish krone,kr,"Danish, Faroese",No Borders,https://flagcdn.com/w320/fo.png
+Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110872,389.0,Eastern Caribbean dollar,$,English,No Borders,https://flagcdn.com/w320/vc.png
+Dominican Republic,Santo Domingo,Americas,Caribbean,10771504,48671.0,Dominican peso,$,Spanish,HTI,https://flagcdn.com/w320/do.png
+Hungary,Budapest,Europe,Central Europe,9539502,93028.0,Hungarian forint,Ft,Hungarian,"AUT, HRV, ROU, SRB, SVK, SVN, UKR",https://flagcdn.com/w320/hu.png
+Bahrain,Manama,Asia,Western Asia,1594654,765.0,Bahraini dinar,.د.ب,Arabic,No Borders,https://flagcdn.com/w320/bh.png
+Cameroon,Yaoundé,Africa,Middle Africa,29442327,475442.0,Central African CFA franc,Fr,"English, French","CAF, TCD, COG, GNQ, GAB, NGA",https://flagcdn.com/w320/cm.png
+Canada,Ottawa,Americas,North America,41651653,9984670.0,Canadian dollar,$,"English, French",USA,https://flagcdn.com/w320/ca.png
+Eritrea,Asmara,Africa,Eastern Africa,3607000,117600.0,Eritrean nakfa,Nfk,"Arabic, English, Tigrinya","DJI, ETH, SDN",https://flagcdn.com/w320/er.png
+Singapore,Singapore,Asia,South-Eastern Asia,6110200,710.0,Singapore dollar,$,"English, Chinese, Malay, Tamil",No Borders,https://flagcdn.com/w320/sg.png
+Costa Rica,San José,Americas,Central America,5309625,51100.0,Costa Rican colón,₡,Spanish,"NIC, PAN",https://flagcdn.com/w320/cr.png
+Serbia,Belgrade,Europe,Southeast Europe,6567783,77589.0,Serbian dinar,дин.,Serbian,"BIH, BGR, HRV, HUN, UNK, MKD, MNE, ROU",https://flagcdn.com/w320/rs.png
+Poland,Warsaw,Europe,Central Europe,37392000,312679.0,Polish złoty,zł,Polish,"BLR, CZE, DEU, LTU, RUS, SVK, UKR",https://flagcdn.com/w320/pl.png
+Jordan,Amman,Asia,Western Asia,11734000,89342.0,Jordanian dinar,د.ا,Arabic,"IRQ, ISR, PSE, SAU, SYR",https://flagcdn.com/w320/jo.png
